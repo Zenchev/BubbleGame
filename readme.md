@@ -1,0 +1,1 @@
+You can run the file by opening the console in the browser ( with F12) and add the functions to the browser console and then run them.
